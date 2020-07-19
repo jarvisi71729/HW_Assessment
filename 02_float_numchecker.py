@@ -12,6 +12,7 @@ def string_checker(question, to_check):
 
         print("Sorry that is not a valid response")
 
+
 options = ["easy", "medium", "hard"]
 
 difficulty = string_checker("Difficulty: Easy, Medium or Hard? >>> ", options)
